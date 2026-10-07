@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <use xlink:href="#_Image1" x="0" y="0" width="64px" height="64px"/>
+    <g transform="matrix(0,2.655515,-2.655515,0,132.877249,-197.365224)">
+        <text x="74.82px" y="47.319px" style="font-family:'CenturyGothic', 'Century Gothic', sans-serif;font-size:35.13px;">a</text>
+    </g>
+    <g transform="matrix(0.654817,0,0,0.654817,13.939472,8.243364)">
+        <text x="7.298px" y="56.199px" style="font-family:'HelveticaBlackOriginal-Bold', 'Helvetica Black Original';font-weight:700;font-size:61.009px;">R</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="64px" height="64px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAl0lEQVR4nO3QQREAIAzAMMC/04kAGXnQKOh1z8xdHzs6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugArQE6QGuADtAaoAO0BugA7QFF0QRAB+OS1gAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
